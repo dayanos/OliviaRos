@@ -1,0 +1,95 @@
+.mi-header{
+    background-image: url(../img/bg-hero.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+
+.container1 {
+    padding: 5% 9% 5% 40%;
+    text-align: end;
+
+}
+
+h1 {
+    font-family: "Raleway";
+    font-size: 70px;
+    font-weight: 700;
+}
+
+.container1 p {
+    font-family: "Raleway";
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.botones1 {
+    padding-top: 20px;
+}
+
+.acercademi {
+    height: 33.25rem;
+    padding: 0 10%;
+    padding-top: 5%;
+    text-align: center;
+}
+
+.row1 {
+    padding-top: 50px;
+}
+
+.row1 h4 {
+    font-family: "raleway";
+    font-size: 20px ;
+    padding-top: 20px;
+    font-weight: 700;
+}
+
+.row1 p {
+    padding-top: 30px;
+}
+
+.mistrabajos {
+    background-color: #17A2B8 ;
+}
+
+.card-no-border {
+    border: 0;
+}
+
+.button {
+    border-color:inherit;
+}
+
+.datos {
+    padding:0 10%;
+    padding-top: 6%;
+    margin-bottom: 30px;
+}
+
+.datos p {
+    text-align: center;
+}
+
+.mb-3 {
+    font-weight: bold;
+}
+
+
+.botonenviar {
+    text-align: right;
+}
+
+footer {
+    background-color:#0F0F0F;
+    width: 100%;
+    height: 70px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+footer p {
+    font-size: 16px;
+    padding: 20px 0 20px 0;
+}
